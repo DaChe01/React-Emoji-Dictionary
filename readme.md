@@ -35,7 +35,7 @@ This simple React app displays an emoji list with names and meanings. It is depl
 ## ⚙️ Setup Instructions
 
 1. **Clone this repo**
-   `git clone https://github.com/your-username/emoji-dictionary.git`
+   `git clone https://github.com/DaChe01/React-Emoji-Dictionary.git`
 
 2. **Set up Jenkins** with:
 
