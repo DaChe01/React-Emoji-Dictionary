@@ -18,6 +18,7 @@ This simple React app displays an emoji list with names and meanings. It is depl
 ```
 .
 ├── Jenkinsfile
+├── assets/
 ├── public/
 ├── src/
 │   ├── components/
