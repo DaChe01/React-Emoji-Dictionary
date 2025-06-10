@@ -59,4 +59,10 @@ This simple React app displays an emoji list with names and meanings. It is depl
 
 ## 📷 Preview
 
-*(Add a screenshot of the deployed app here)*
+![App Preview](./assets/preview.png)
+
+---
+
+## 📦 License
+
+This project is licensed under the [MIT License](./LICENSE).
